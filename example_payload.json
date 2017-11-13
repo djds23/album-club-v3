@@ -1,0 +1,2309 @@
+{
+	"version": "1.0",
+	"encoding": "UTF-8",
+	"feed": {
+		"xmlns": "http://www.w3.org/2005/Atom",
+		"xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+		"xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+		"id": {
+			"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values"
+		},
+		"updated": {
+			"$t": "2017-11-12T14:38:41.869Z"
+		},
+		"category": [
+			{
+				"scheme": "http://schemas.google.com/spreadsheets/2006",
+				"term": "http://schemas.google.com/spreadsheets/2006#list"
+			}
+		],
+		"title": {
+			"type": "text",
+			"$t": "albums"
+		},
+		"link": [
+			{
+				"rel": "alternate",
+				"type": "application/atom+xml",
+				"href": "https://docs.google.com/spreadsheets/d/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/pubhtml"
+			},
+			{
+				"rel": "http://schemas.google.com/g/2005#feed",
+				"type": "application/atom+xml",
+				"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values"
+			},
+			{
+				"rel": "http://schemas.google.com/g/2005#post",
+				"type": "application/atom+xml",
+				"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values"
+			},
+			{
+				"rel": "self",
+				"type": "application/atom+xml",
+				"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values?alt=json"
+			}
+		],
+		"author": [
+			{
+				"name": {
+					"$t": "dean.silfen"
+				},
+				"email": {
+					"$t": "dean.silfen@gmail.com"
+				}
+			}
+		],
+		"openSearch$totalResults": {
+			"$t": "51"
+		},
+		"openSearch$startIndex": {
+			"$t": "1"
+		},
+		"entry": [
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cokwr"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "6/21/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Channel Orange, artistname: Frank Ocean, chosenby: Luis-0, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A392p3shh2jkxUxY2VHvlH8\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cokwr"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "6/21/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Channel Orange"
+				},
+				"gsx$artistname": {
+					"$t": "Frank Ocean"
+				},
+				"gsx$chosenby": {
+					"$t": "Luis-0"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A392p3shh2jkxUxY2VHvlH8\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cpzh4"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "6/28/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: V, artistname: Wavves, chosenby: Liz-1, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A592d2gtYO83FF8awSzrQZE\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cpzh4"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "6/28/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "V"
+				},
+				"gsx$artistname": {
+					"$t": "Wavves"
+				},
+				"gsx$chosenby": {
+					"$t": "Liz-1"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A592d2gtYO83FF8awSzrQZE\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cre1l"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "7/5/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: When Your Heartstrings Break, artistname: Beulah, chosenby: Joe-2, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A20aXIU81UUF1K8KVRTy58D\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cre1l"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "7/5/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "When Your Heartstrings Break"
+				},
+				"gsx$artistname": {
+					"$t": "Beulah"
+				},
+				"gsx$chosenby": {
+					"$t": "Joe-2"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A20aXIU81UUF1K8KVRTy58D\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/chk2m"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "7/12/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Carnavas, artistname: Silversun Pickups, chosenby: Victoria-3, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2Qr40p1sv6NYrf9NPehsrO\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/chk2m"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "7/12/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Carnavas"
+				},
+				"gsx$artistname": {
+					"$t": "Silversun Pickups"
+				},
+				"gsx$chosenby": {
+					"$t": "Victoria-3"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2Qr40p1sv6NYrf9NPehsrO\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ciyn3"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "7/19/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Vignetting The Compost, artistname: Bibio, chosenby: Ryan-4, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7ne7urIphw4b0lewThe6WJ\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ciyn3"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "7/19/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Vignetting The Compost"
+				},
+				"gsx$artistname": {
+					"$t": "Bibio"
+				},
+				"gsx$chosenby": {
+					"$t": "Ryan-4"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7ne7urIphw4b0lewThe6WJ\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ckd7g"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "7/26/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: In Light, artistname: Small Color, chosenby: Ingamar-5, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A1dsnOr75xqEcNyCF9oHQz4\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ckd7g"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "7/26/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "In Light"
+				},
+				"gsx$artistname": {
+					"$t": "Small Color"
+				},
+				"gsx$chosenby": {
+					"$t": "Ingamar-5"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A1dsnOr75xqEcNyCF9oHQz4\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/clrrx"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "8/2/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: IV, artistname: BadBadNotGood, chosenby: Dean-6, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6uqcZu1it9k6zz3UVKZzPo\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/clrrx"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "8/2/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "IV"
+				},
+				"gsx$artistname": {
+					"$t": "BadBadNotGood"
+				},
+				"gsx$chosenby": {
+					"$t": "Dean-6"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6uqcZu1it9k6zz3UVKZzPo\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cyevm"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "8/9/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Take This To Your Grave, artistname: Fall Out Boy, chosenby: Luis-0, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7l4nnHG7upOnUM4WvAjToY\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cyevm"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "8/9/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Take This To Your Grave"
+				},
+				"gsx$artistname": {
+					"$t": "Fall Out Boy"
+				},
+				"gsx$chosenby": {
+					"$t": "Luis-0"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7l4nnHG7upOnUM4WvAjToY\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cztg3"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "8/16/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Tragic Kingdom, artistname: No Doubt, chosenby: Liz-1, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A3VekjWskUut57hx6W9wqL8\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cztg3"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "8/16/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Tragic Kingdom"
+				},
+				"gsx$artistname": {
+					"$t": "No Doubt"
+				},
+				"gsx$chosenby": {
+					"$t": "Liz-1"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A3VekjWskUut57hx6W9wqL8\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d180g"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "8/23/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: All Hail West Texas, artistname: The Mountain Goats, chosenby: Joe-2, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A0SSMTJHDokOaKuaLaeSAYd\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d180g"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "8/23/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "All Hail West Texas"
+				},
+				"gsx$artistname": {
+					"$t": "The Mountain Goats"
+				},
+				"gsx$chosenby": {
+					"$t": "Joe-2"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A0SSMTJHDokOaKuaLaeSAYd\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d2mkx"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "8/30/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: From Shores of Sleep, artistname: Musée Mécanique, chosenby: Victoria-3, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5eYBH2HoMEKtJZ59mPiIlA\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d2mkx"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "8/30/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "From Shores of Sleep"
+				},
+				"gsx$artistname": {
+					"$t": "Musée Mécanique"
+				},
+				"gsx$chosenby": {
+					"$t": "Victoria-3"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5eYBH2HoMEKtJZ59mPiIlA\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cssly"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "9/6/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Dog Problems, artistname: The Format, chosenby: Ryan-4, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6VPLqG06SlXc1FzVzzcuZB\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cssly"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "9/6/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Dog Problems"
+				},
+				"gsx$artistname": {
+					"$t": "The Format"
+				},
+				"gsx$chosenby": {
+					"$t": "Ryan-4"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6VPLqG06SlXc1FzVzzcuZB\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cu76f"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "9/13/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Jesu/Sun Kil Moon, artistname: Jesu/Sun Kil Moon, chosenby: Ingamar-5, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4JbhBnmbvpBnCmaCBqtUM6\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cu76f"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "9/13/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Jesu/Sun Kil Moon"
+				},
+				"gsx$artistname": {
+					"$t": "Jesu/Sun Kil Moon"
+				},
+				"gsx$chosenby": {
+					"$t": "Ingamar-5"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4JbhBnmbvpBnCmaCBqtUM6\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cvlqs"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "9/20/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: 3.377083333, artistname: Antarctica, chosenby: Dean-6, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7jb9ZRdjuBA31Nx2wA7XJX\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cvlqs"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "9/20/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "3.377083333"
+				},
+				"gsx$artistname": {
+					"$t": "Antarctica"
+				},
+				"gsx$chosenby": {
+					"$t": "Dean-6"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7jb9ZRdjuBA31Nx2wA7XJX\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cx0b9"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "9/27/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Ten$ion, artistname: Die Antwoord, chosenby: Luis-0, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4kqZmdRJUfZQxt2MDF0NDr\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/cx0b9"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "9/27/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Ten$ion"
+				},
+				"gsx$artistname": {
+					"$t": "Die Antwoord"
+				},
+				"gsx$chosenby": {
+					"$t": "Luis-0"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4kqZmdRJUfZQxt2MDF0NDr\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d9ney"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "10/4/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Flying Lessons, artistname: Fool's Gold, chosenby: Liz-1, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4Ti4L10Yqaki5hRrgtKaaz\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d9ney"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "10/4/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Flying Lessons"
+				},
+				"gsx$artistname": {
+					"$t": "Fool's Gold"
+				},
+				"gsx$chosenby": {
+					"$t": "Liz-1"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4Ti4L10Yqaki5hRrgtKaaz\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/db1zf"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "10/11/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Warning, artistname: Green Day, chosenby: Joe-2, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A3ifIxGNsG1XmLdoanRRIWB\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/db1zf"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "10/11/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Warning"
+				},
+				"gsx$artistname": {
+					"$t": "Green Day"
+				},
+				"gsx$chosenby": {
+					"$t": "Joe-2"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A3ifIxGNsG1XmLdoanRRIWB\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dcgjs"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "10/18/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Acid Rap, artistname: Chance The Rapper, chosenby: Victoria-3, embedcode: <iframe width=\"300\" height=\"380\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/5278265&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dcgjs"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "10/18/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Acid Rap"
+				},
+				"gsx$artistname": {
+					"$t": "Chance The Rapper"
+				},
+				"gsx$chosenby": {
+					"$t": "Victoria-3"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe width=\"300\" height=\"380\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/5278265&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ddv49"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "10/25/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: My Dark Beautiful Twisted Fantasy, artistname: Kanye West, chosenby: Ryan-4, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A20r762YmB5HeofjMCiPMLv\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ddv49"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "10/25/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "My Dark Beautiful Twisted Fantasy"
+				},
+				"gsx$artistname": {
+					"$t": "Kanye West"
+				},
+				"gsx$chosenby": {
+					"$t": "Ryan-4"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A20r762YmB5HeofjMCiPMLv\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d415a"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "11/1/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: 22, A Million, artistname: Bon Iver, chosenby: Ingamar-5, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A1PgfRdl3lPyACfUGH4pquG\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d415a"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "11/1/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "22, A Million"
+				},
+				"gsx$artistname": {
+					"$t": "Bon Iver"
+				},
+				"gsx$chosenby": {
+					"$t": "Ingamar-5"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A1PgfRdl3lPyACfUGH4pquG\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d5fpr"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "11/8/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: At Carnegie Hall, artistname: Thelonious Monk Quartet With John Coltrane, chosenby: Dean-6, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A3x38mYlwkm6L6vYIn0Hzqk\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d5fpr"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "11/8/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "At Carnegie Hall"
+				},
+				"gsx$artistname": {
+					"$t": "Thelonious Monk Quartet With John Coltrane"
+				},
+				"gsx$chosenby": {
+					"$t": "Dean-6"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A3x38mYlwkm6L6vYIn0Hzqk\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d6ua4"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "11/15/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Meddle, artistname: Pink Floyd, chosenby: Luis-0, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A468ZwCchVtzEbt9BHmXopb\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d6ua4"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "11/15/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Meddle"
+				},
+				"gsx$artistname": {
+					"$t": "Pink Floyd"
+				},
+				"gsx$chosenby": {
+					"$t": "Luis-0"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A468ZwCchVtzEbt9BHmXopb\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d88ul"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "11/22/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: It's Alive, artistname: La Luz, chosenby: Liz-1, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4nyriTqiBuiI5W6AQZKMFM\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/d88ul"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "11/22/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "It's Alive"
+				},
+				"gsx$artistname": {
+					"$t": "La Luz"
+				},
+				"gsx$chosenby": {
+					"$t": "Liz-1"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4nyriTqiBuiI5W6AQZKMFM\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dkvya"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "11/29/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Slugger, artistname: Sad13, chosenby: Joe-2, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4PepeYf4OuqaX0rjMTQPCe\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dkvya"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "11/29/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Slugger"
+				},
+				"gsx$artistname": {
+					"$t": "Sad13"
+				},
+				"gsx$chosenby": {
+					"$t": "Joe-2"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4PepeYf4OuqaX0rjMTQPCe\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dmair"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "12/6/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Ghost, artistname: Radical Face, chosenby: Victoria-3, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A0VYi6aRMwxXpfvNwDCr3bB\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dmair"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "12/6/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Ghost"
+				},
+				"gsx$artistname": {
+					"$t": "Radical Face"
+				},
+				"gsx$chosenby": {
+					"$t": "Victoria-3"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A0VYi6aRMwxXpfvNwDCr3bB\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dnp34"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "12/13/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Christmas, artistname: Mannheim Steamroller, chosenby: Ryan-4, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5lXtaoKdIdZmGl0nGE7N1R\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dnp34"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "12/13/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Christmas"
+				},
+				"gsx$artistname": {
+					"$t": "Mannheim Steamroller"
+				},
+				"gsx$chosenby": {
+					"$t": "Ryan-4"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5lXtaoKdIdZmGl0nGE7N1R\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dp3nl"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "12/20/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Pieces in Space, artistname: Sammus, chosenby: Ingamar-5, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A06mo69xYqH5yN4bcopD5Dm\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dp3nl"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "12/20/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Pieces in Space"
+				},
+				"gsx$artistname": {
+					"$t": "Sammus"
+				},
+				"gsx$chosenby": {
+					"$t": "Ingamar-5"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A06mo69xYqH5yN4bcopD5Dm\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/df9om"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "12/27/2016 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Telefone, artistname: Noname, chosenby: Dean-6, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A18Scpsg5OV1iYNtSaCsjwz\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/df9om"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "12/27/2016 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Telefone"
+				},
+				"gsx$artistname": {
+					"$t": "Noname"
+				},
+				"gsx$chosenby": {
+					"$t": "Dean-6"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A18Scpsg5OV1iYNtSaCsjwz\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dgo93"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "1/3/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Lift Your Skinny Fists Like Antennas to Heaven, artistname: Godspeed You! Black Emperor, chosenby: Luis-0, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2rT82YYlV9UoxBYLIezkRq\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dgo93"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "1/3/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Lift Your Skinny Fists Like Antennas to Heaven"
+				},
+				"gsx$artistname": {
+					"$t": "Godspeed You! Black Emperor"
+				},
+				"gsx$chosenby": {
+					"$t": "Luis-0"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2rT82YYlV9UoxBYLIezkRq\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/di2tg"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "1/10/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Sha Sha, artistname: Ben Kweller, chosenby: Liz-1, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7L7TLSFHUUNpnuLzBJRjCE\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/di2tg"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "1/10/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Sha Sha"
+				},
+				"gsx$artistname": {
+					"$t": "Ben Kweller"
+				},
+				"gsx$chosenby": {
+					"$t": "Liz-1"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7L7TLSFHUUNpnuLzBJRjCE\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/djhdx"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "1/17/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: X-Communicate, artistname: Kristin Kontrol, chosenby: Joe-2, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6qINutdftMiUUKzklSg3eq\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/djhdx"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "1/17/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "X-Communicate"
+				},
+				"gsx$artistname": {
+					"$t": "Kristin Kontrol"
+				},
+				"gsx$chosenby": {
+					"$t": "Joe-2"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6qINutdftMiUUKzklSg3eq\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dw4je"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "1/31/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: WORRY., artistname: Jeff Rosenstock, chosenby: Ryan-4, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A25DyIBkqzuy4YD5BgJEgm0\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dw4je"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "1/31/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "WORRY."
+				},
+				"gsx$artistname": {
+					"$t": "Jeff Rosenstock"
+				},
+				"gsx$chosenby": {
+					"$t": "Ryan-4"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A25DyIBkqzuy4YD5BgJEgm0\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dxj3v"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "2/7/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Mono No Aware, artistname: Johnny Foreigner, chosenby: Ingamar-5, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A3gtiMZp1HVQsP4kOYyUrZY\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dxj3v"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "2/7/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Mono No Aware"
+				},
+				"gsx$artistname": {
+					"$t": "Johnny Foreigner"
+				},
+				"gsx$chosenby": {
+					"$t": "Ingamar-5"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A3gtiMZp1HVQsP4kOYyUrZY\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dyxo8"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "2/14/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Night Falls Over Kortedala, artistname: Jens Lekman, chosenby: Dean-6, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7JCBRYuae6ORVUFVJ1WFg7\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dyxo8"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "2/14/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Night Falls Over Kortedala"
+				},
+				"gsx$artistname": {
+					"$t": "Jens Lekman"
+				},
+				"gsx$chosenby": {
+					"$t": "Dean-6"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7JCBRYuae6ORVUFVJ1WFg7\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e0c8p"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "2/21/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Crystal Castles, artistname: Crystal Castles, chosenby: Luis-0, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5nM3cUPxqg7iqjaoyeCWtN\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e0c8p"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "2/21/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Crystal Castles"
+				},
+				"gsx$artistname": {
+					"$t": "Crystal Castles"
+				},
+				"gsx$chosenby": {
+					"$t": "Luis-0"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5nM3cUPxqg7iqjaoyeCWtN\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dqi9q"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "2/28/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Learning To Crawl, artistname: Pretenders, chosenby: Liz-1, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A0pZuMQ6WJm5CWYSPvpyFfd\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dqi9q"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "2/28/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Learning To Crawl"
+				},
+				"gsx$artistname": {
+					"$t": "Pretenders"
+				},
+				"gsx$chosenby": {
+					"$t": "Liz-1"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A0pZuMQ6WJm5CWYSPvpyFfd\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/drwu7"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "3/7/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: California, artistname: Mr. Bungle, chosenby: Joe-2, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6QAKD1wqCrmkBYw1AsZfEy\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/drwu7"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "3/7/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "California"
+				},
+				"gsx$artistname": {
+					"$t": "Mr. Bungle"
+				},
+				"gsx$chosenby": {
+					"$t": "Joe-2"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6QAKD1wqCrmkBYw1AsZfEy\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dtbek"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "3/14/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: The Renaissance, artistname: Q-Tip, chosenby: Cory-8, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6V5Ct3kX5Yk74z4MLZB6h9\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dtbek"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "3/14/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "The Renaissance"
+				},
+				"gsx$artistname": {
+					"$t": "Q-Tip"
+				},
+				"gsx$chosenby": {
+					"$t": "Cory-8"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6V5Ct3kX5Yk74z4MLZB6h9\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dupz1"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "3/21/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Thriller, artistname: Michael Jackson, chosenby: Ryan-4, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2ANVost0y2y52ema1E9xAZ\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/dupz1"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "3/21/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Thriller"
+				},
+				"gsx$artistname": {
+					"$t": "Michael Jackson"
+				},
+				"gsx$chosenby": {
+					"$t": "Ryan-4"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2ANVost0y2y52ema1E9xAZ\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e7d2q"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "3/28/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: In A Safe Place, artistname: The Album Leaf, chosenby: Ingamar-5, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4r6F9MHmX3c5zeYzaETi7z\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e7d2q"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "3/28/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "In A Safe Place"
+				},
+				"gsx$artistname": {
+					"$t": "The Album Leaf"
+				},
+				"gsx$chosenby": {
+					"$t": "Ingamar-5"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4r6F9MHmX3c5zeYzaETi7z\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e8rn7"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "4/4/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: It's A Wonderful Life, artistname: Sparklehorse, chosenby: Dean-6, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A1akX7d4n8BJWFumQUMnf4x\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e8rn7"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "4/4/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "It's A Wonderful Life"
+				},
+				"gsx$artistname": {
+					"$t": "Sparklehorse"
+				},
+				"gsx$chosenby": {
+					"$t": "Dean-6"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A1akX7d4n8BJWFumQUMnf4x\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ea67k"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "4/11/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Crack the Skye, artistname: Mastodon, chosenby: Luis-0, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2W2nqEKXWBorbq5yvm3jZg\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ea67k"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "4/11/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Crack the Skye"
+				},
+				"gsx$artistname": {
+					"$t": "Mastodon"
+				},
+				"gsx$chosenby": {
+					"$t": "Luis-0"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2W2nqEKXWBorbq5yvm3jZg\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ebks1"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "4/18/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Apocalipstick, artistname: Cherry Glazerr, chosenby: Liz-1, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7N2DFqOrhz7yo5yKKPgL4q\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ebks1"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "4/18/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Apocalipstick"
+				},
+				"gsx$artistname": {
+					"$t": "Cherry Glazerr"
+				},
+				"gsx$chosenby": {
+					"$t": "Liz-1"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7N2DFqOrhz7yo5yKKPgL4q\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e1qt2"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "4/25/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Cardinal, artistname: Pinegrove, chosenby: Joe-2, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2SmrUzUMMOYQqoPuOhlhjw\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e1qt2"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "4/25/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Cardinal"
+				},
+				"gsx$artistname": {
+					"$t": "Pinegrove"
+				},
+				"gsx$chosenby": {
+					"$t": "Joe-2"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2SmrUzUMMOYQqoPuOhlhjw\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e35dj"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "5/2/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Rising Son, artistname: Takuya Kuroda, chosenby: Cory-8, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7GDnn7XSLCIjZkBkw0SMZd\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e35dj"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "5/2/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Rising Son"
+				},
+				"gsx$artistname": {
+					"$t": "Takuya Kuroda"
+				},
+				"gsx$chosenby": {
+					"$t": "Cory-8"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A7GDnn7XSLCIjZkBkw0SMZd\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e4jxw"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "5/9/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Wake, artistname: Hail the Sun, chosenby: Ryan-4, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4wzvzYbAA13pK9zESHvSAd\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e4jxw"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "5/9/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Wake"
+				},
+				"gsx$artistname": {
+					"$t": "Hail the Sun"
+				},
+				"gsx$chosenby": {
+					"$t": "Ryan-4"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A4wzvzYbAA13pK9zESHvSAd\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e5yid"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "5/16/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: 9, artistname: Cashmere Cat, chosenby: Ingamar-5, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5HR24TLfeGpDT860C7qka9\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/e5yid"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "5/16/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "9"
+				},
+				"gsx$artistname": {
+					"$t": "Cashmere Cat"
+				},
+				"gsx$chosenby": {
+					"$t": "Ingamar-5"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5HR24TLfeGpDT860C7qka9\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/eilm2"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "5/23/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Everything, Everything, artistname: Underworld, chosenby: Dean-6, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2Un5MRMFYfZF7UuDOfTaxi\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/eilm2"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "5/23/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Everything, Everything"
+				},
+				"gsx$artistname": {
+					"$t": "Underworld"
+				},
+				"gsx$chosenby": {
+					"$t": "Dean-6"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A2Un5MRMFYfZF7UuDOfTaxi\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ek06j"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "5/30/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: Franz Ferdinand, artistname: Franz Ferdinand, chosenby: Luis-0, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5zVsO4V4xpxbQlME0bp8pb\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/ek06j"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "5/30/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "Franz Ferdinand"
+				},
+				"gsx$artistname": {
+					"$t": "Franz Ferdinand"
+				},
+				"gsx$chosenby": {
+					"$t": "Luis-0"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A5zVsO4V4xpxbQlME0bp8pb\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/eleqw"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "6/6/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: After Laughter, artistname: Paramore, chosenby: Liz-1, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A1c9Sx7XdXuMptGyfCB6hHs\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/eleqw"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "6/6/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "After Laughter"
+				},
+				"gsx$artistname": {
+					"$t": "Paramore"
+				},
+				"gsx$chosenby": {
+					"$t": "Liz-1"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A1c9Sx7XdXuMptGyfCB6hHs\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/emtbd"
+				},
+				"updated": {
+					"$t": "2017-11-12T14:38:41.869Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "6/13/2017 0:00:00"
+				},
+				"content": {
+					"type": "text",
+					"$t": "albumname: How to Be a Human Being, artistname: Glass Animals, chosenby: Joe-2, embedcode: <iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6qb9MDR0lfsN9a2pw77uJy\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1s9I2ZKWe1vxnREiN-ztkVczRCKDOLXocSM9a-g841yk/1/public/values/emtbd"
+					}
+				],
+				"gsx$chosenat": {
+					"$t": "6/13/2017 0:00:00"
+				},
+				"gsx$albumname": {
+					"$t": "How to Be a Human Being"
+				},
+				"gsx$artistname": {
+					"$t": "Glass Animals"
+				},
+				"gsx$chosenby": {
+					"$t": "Joe-2"
+				},
+				"gsx$embedcode": {
+					"$t": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Aalbum%3A6qb9MDR0lfsN9a2pw77uJy\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+				}
+			}
+		]
+	}
+}
