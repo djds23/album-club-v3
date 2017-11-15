@@ -1,0 +1,4 @@
+.AlbumCollection-container {
+  display: flex;
+  flex-direction: column;
+}

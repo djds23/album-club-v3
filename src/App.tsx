@@ -2,7 +2,8 @@ import * as React from 'react';
 import './App.css';
 import Loading from './Loading';
 import {Collection, CollectionConsumer} from './Collection';
-import Row from './Row'
+import AlbumSelection from './AlbumSelection'
+import AlbumCollection from './AlbumCollection'
 import Label from './Label';
 import { ErrorLevel } from './LabelConfiguration'
 
@@ -10,7 +11,7 @@ const logo = require('./logo.svg');
 
 interface AppState {
   loaded: boolean,
-  rows: Array<Row>
+  albumSelections: Array<AlbumSelection>
 }
 
 class App extends React.Component<{}, AppState> implements CollectionConsumer {
@@ -20,7 +21,7 @@ class App extends React.Component<{}, AppState> implements CollectionConsumer {
     super(props);
     this.state = {
       loaded: false,
-      rows: []
+      albumSelections: []
     };
   }
 
@@ -29,10 +30,10 @@ class App extends React.Component<{}, AppState> implements CollectionConsumer {
     this.collection.update();
   }
 
-  collectionDidUpdate(rows: Array<Row>) {
+  collectionDidUpdate(albumSelections: Array<AlbumSelection>) {
     this.setState({
       loaded: true,
-      rows: rows
+      albumSelections: albumSelections
     });
   }
 
@@ -52,20 +53,9 @@ class App extends React.Component<{}, AppState> implements CollectionConsumer {
 
   renderContent() {
     if (this.state.loaded) {
-      if (this.state.rows.length > 0) {
-        let i = 0
-        let labels = this.state.rows.map((row: Row) => {
-          i += 1;
-          let props = {
-            message: row.albumName,
-            level: ErrorLevel.notice
-          }
-          return <Label key={i} {...props}/>
-        })
+      if (this.state.albumSelections.length > 0) {
         return (
-          <div>
-            {labels}
-          </div>
+          <AlbumCollection albums={this.state.albumSelections} />
         );
       } else {
         let props = {

@@ -1,13 +1,13 @@
-import Row from "./Row"
+import AlbumSelection from "./AlbumSelection"
 
 export interface CollectionConsumer {
-  collectionDidUpdate(rows: Array<Row>): void;
+  collectionDidUpdate(albumSelections: Array<AlbumSelection>): void;
 }
 
 export class Collection {
   url: string
   listeners: Array<CollectionConsumer> = []
-  rows: Array<Row> = []
+  albumSelections: Array<AlbumSelection> = []
   constructor(url: string) {
     this.url = url
   }
@@ -24,15 +24,15 @@ export class Collection {
       if (feed === null) {
         throw new Error('Bad data');
       }
-      this.rows = [];
+      this.albumSelections = [];
       feed.forEach((value) => {
-        let row = Row.deserialize(value);
-        if (row != null) {
-          this.rows.push(row);
+        let albumSelection = AlbumSelection.deserialize(value);
+        if (albumSelection != null) {
+          this.albumSelections.push(albumSelection);
         }
       });
       this.listeners.forEach((listener) => {
-        listener.collectionDidUpdate(this.rows)
+        listener.collectionDidUpdate(this.albumSelections)
       })
     });
   }

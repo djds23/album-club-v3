@@ -1,11 +1,11 @@
-class Row {
+class AlbumSelection {
   chosenAt: string
   albumName: string
   artistName: string
   chosenBy: string
   embedCode: string
 
-  static deserialize(obj: any): Row | null {
+  static deserialize(obj: any): AlbumSelection | null {
      let chosenAt: string = obj['gsx$chosenat']['$t'];
      if (chosenAt == null) return null;
 
@@ -21,7 +21,7 @@ class Row {
      let embedCode: string = obj['gsx$embedcode']['$t'];
      if (embedCode == null) return null;
 
-     return new Row(chosenAt, albumName, artistName, chosenBy, embedCode);
+     return new AlbumSelection(chosenAt, albumName, artistName, chosenBy, embedCode);
   }
 
   constructor(chosenAt: string, albumName: string, artistName: string, chosenBy: string, embedCode: string) {
@@ -33,4 +33,4 @@ class Row {
   }
 }
 
-export default Row;
+export default AlbumSelection;
